@@ -1,3 +1,5 @@
+Hello and welcome :)
+
 My web application called "NFL in numbers" is my own project to showcase my data analysis skills
 
 The application is based on Dash and uses Flask as a backend. On each subpage it describes different issues related to data analysis, everything is based on American football teams.
