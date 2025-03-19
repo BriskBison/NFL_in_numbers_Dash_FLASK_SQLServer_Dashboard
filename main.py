@@ -164,7 +164,7 @@ def display_page(pathname):
             dcc.Markdown("Thank you very much for reviewing my application, I hope that the process of analyzing "
                         " data for the NFL was understandable and pleasant for you. Below I will present the most important. "
                         " information from the entire analysis. \n\n"
-                        " **The most important features for estimating a team's future wins are:** CCH, FUT, TRD, FRL oraz BNG. "
+                        " **The most important features for estimating a team's future wins are:** CCH, FUT, TRD, FRL and BNG. "
                         " The key is that all of these values are high, and not that they are selectively at the maximum value."
                         " It is better for a team to have 80 points in 5 of these characteristics than 100 points in two and 60 points "
                         " in the remaining ones.\n\n"
@@ -186,5 +186,5 @@ def display_page(pathname):
         ], style={'width': '100%', 'textAlign': 'center',  'fontSize': '23px', 'marginLeft': 'auto',  'marginRight': 'auto',  'padding': '5px' })
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
 
