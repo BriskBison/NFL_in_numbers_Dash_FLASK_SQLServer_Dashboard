@@ -12,7 +12,9 @@ The application is based on Dash and uses Flask as a backend. Each subpage descr
 **Here are the steps to follow to run the dashboard properly:**
 
 1.To run the program, download all files from github using the git clone command.
+
 2.Then open the code using an IDE and make sure that all libraries are installed
+
 3.After running the code correctly, click on the link displayed in the terminal, then the application will open in your default browser
 
 ![enef1](https://github.com/user-attachments/assets/8a043ecf-6cff-48b3-badd-a90170fdb818)
