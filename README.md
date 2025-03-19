@@ -1,13 +1,19 @@
 Hello and welcome :)
 
-My web application called "NFL in numbers" is my own project to showcase my data analysis skills
+My dashboard called "NFL in numbers" is my own project to showcase my data analysis skills
 
-The application is based on Dash and uses Flask as a backend. On each subpage it describes different issues related to data analysis, everything is based on American football teams.
+The application is based on Dash and uses Flask as a backend. Each subpage describes different issues related to data analysis, everything is based on American football teams.
 
 - Interactive dashboard divided into tabs and pages
 - Statistical analysis of NFL teams
 - Data visualizations: PCA, regression, correlation
 - Tables, queries in SQL Server
+
+**Here are the steps to follow to run the dashboard properly:**
+
+1.To run the program, download all files from github using the git clone command.
+2.Then open the code using an IDE and make sure that all libraries are installed
+3.After running the code correctly, click on the link displayed in the terminal, then the application will open in your default browser
 
 ![enef1](https://github.com/user-attachments/assets/8a043ecf-6cff-48b3-badd-a90170fdb818)
 ![enef2](https://github.com/user-attachments/assets/1859be51-4ef7-4523-8235-7e3382852e46)
@@ -47,3 +53,9 @@ As I mentioned, the project is entirely my own, and the data I used is publicly 
 - logic, as this is my first fully independent, large analytical work, creating the entire process of data analysis, conclusions, dependencies and their appropriate presentation was difficult, but at the same time very developmental :)
 
 © 2025 Karol B. Krawczyk, All Rights Reserved
+
+![enef5](https://github.com/user-attachments/assets/5bafb197-4850-44c0-8eee-6fce2f662ceb)
+![enef6](https://github.com/user-attachments/assets/8f8f6f3c-fe22-4ed5-9320-b00bf7c323b0)
+![enef7](https://github.com/user-attachments/assets/ba1ec49e-a10e-4123-8ff4-a7f52274903e)
+
+
