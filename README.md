@@ -17,10 +17,10 @@ The application is based on Dash and uses Flask as a backend. Each subpage descr
 
 3.After running the code correctly, click on the link displayed in the terminal, then the application will open in your default browser
 
-![enef1](https://github.com/user-attachments/assets/8a043ecf-6cff-48b3-badd-a90170fdb818)
-![enef2](https://github.com/user-attachments/assets/1859be51-4ef7-4523-8235-7e3382852e46)
-![enef4](https://github.com/user-attachments/assets/6908e06a-40cc-4be6-aaf2-265749e3833a)
-![enef3](https://github.com/user-attachments/assets/9820b302-3d80-40f6-8069-70811ae6658c)
+![enef1](assets/Screenshots/enef1.png)
+![enef2](assets/Screenshots/enef2.png)
+![enef4](assets/Screenshots/enef4.png)
+![enef3](assets/Screenshots/enef3.png)
 
 
 Based on data found on the internet, I use a table that defines specific categories based on which I evaluate each team, e.g. CCH = which evaluates the value of the coach. The values ​​are in the form of numbers from 0 to 100.
@@ -56,8 +56,8 @@ As I mentioned, the project is entirely my own, and the data I used is publicly 
 
 © 2025 Karol B. Krawczyk, All Rights Reserved
 
-![enef5](https://github.com/user-attachments/assets/5bafb197-4850-44c0-8eee-6fce2f662ceb)
-![enef6](https://github.com/user-attachments/assets/8f8f6f3c-fe22-4ed5-9320-b00bf7c323b0)
-![enef7](https://github.com/user-attachments/assets/ba1ec49e-a10e-4123-8ff4-a7f52274903e)
+![enef5](assets/Screenshots/enef5.png)
+![enef6](assets/Screenshots/enef6.png)
+![enef7](assets/Screenshots/enef7.png)
 
 
